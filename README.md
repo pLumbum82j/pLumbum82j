@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello!
+My name is Ilya Smirnov.
+I am a beginner Java developer. 👋
+	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png(https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg)" alt="REST" title="REST" /></code>
+
 
 <!--
 **pLumbum82j/pLumbum82j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
