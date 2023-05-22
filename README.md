@@ -1,7 +1,6 @@
 ### Hello!
 My name is Ilya Smirnov.
 I am a beginner Java developer. 👋
-https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg
 
 
 <!--
