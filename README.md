@@ -2,7 +2,7 @@
 My name is Ilya Smirnov.
 I am a beginner Java developer. 👋
 
-[![My Skills](https://skillicons.dev/icons?i=java,docker,spring,idea&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,postgres,git,github,maven,hibernate,docker,spring,idea&theme=light)](https://skillicons.dev)
 
 <!--
 **pLumbum82j/pLumbum82j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
