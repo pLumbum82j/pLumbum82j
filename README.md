@@ -4,7 +4,7 @@ I am a beginner Java developer. 👋
 
 Do you want to cooperate? Write me. 
 #### My contacts:
-mydoomer@mail.ru
+smirnov.usg@yandex.ru
 
 [![My Skills](https://skillicons.dev/icons?i=java,postgres,git,github,maven,hibernate,docker,spring,idea&theme=light)](https://skillicons.dev)
 
