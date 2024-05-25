@@ -1,6 +1,6 @@
 ## Hello! 
 My name is Ilya Smirnov.
-I am a beginner Java developer. 👋
+I am a Java developer. 👋
 
 Do you want to cooperate? Write me. 
 #### My contacts:
